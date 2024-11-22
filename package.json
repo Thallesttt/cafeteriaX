@@ -4,5 +4,8 @@
     },
     "devDependencies": {
         "jest": "^29.7.0"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.141.0"
     }
 }
